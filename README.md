@@ -21,7 +21,7 @@ A beginner-friendly cybersecurity project developed using Python to evaluate pas
 1. Install Python 3.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Password-Strength-Analyzer.git
+   git clone https://github.com/narreshtamilselvan/Password-Strength-Analyzer.git
    ```
 3. Navigate to the project directory:
    ```bash
@@ -29,7 +29,7 @@ A beginner-friendly cybersecurity project developed using Python to evaluate pas
    ```
 4. Run the program:
    ```bash
-   python password_checker.py
+   Password strength checker.py
    ```
 
 ## Learning Outcomes
